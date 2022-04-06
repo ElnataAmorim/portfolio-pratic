@@ -1,0 +1,48 @@
+header {
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+   padding: 100px;
+   color: #c3b4d1;
+   background-color:#380B61;
+   margin: 0px;
+}
+    
+
+body {
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%); 
+}
+
+img {
+    width: 40px;
+    height: 40px;  
+}
+
+p{
+    font-weight: bold;
+}
+
+
+nav {
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+nav a {
+    margin: 100px;
+    text-align: justify;
+    text-decoration: none;
+    
+}
+
+.container {
+    text-align: justify;
+    color:purple;
+    font-weight: bold;
+  
+    
+}
+
+h4{
+    color: purple;
+}
